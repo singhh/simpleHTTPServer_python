@@ -1,15 +1,14 @@
 # Setup Simple HTTP Server using Python
 
+Intro:
 
 I learned how to spin up a HTTPServer in python to work in my dev environment  so I can test my work etc. Here I am going to show you and share how it can be achived in few simple steps.
-
 
 Assumptions:
 
 You are using Linux or MacOS system
 
-Steps:
-
+Instructions / Steps:
 
 First, check version of Pyhton on your system by executing following in terminal
 
